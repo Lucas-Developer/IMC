@@ -8,3 +8,6 @@ O índice de massa corporal (IMC) é uma medida internacional usada para calcula
 - Entre 25,0 e 29,9 = sobrepeso
 - Entre 30,0 e 39,9 = Obesidade
 - Acima de 40,0 = Obesidade Mórbida
+
+# Observação
+Deve-se considerar que apenas este cálculo não é suficiente para avaliar corretamente o estado nutricional. Consulte um nutricionista
