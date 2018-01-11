@@ -10,4 +10,4 @@ O índice de massa corporal (IMC) é uma medida internacional usada para calcula
 - Acima de 40,0 = Obesidade Mórbida
 
 # Observação
-Deve-se considerar que apenas este cálculo não é suficiente para avaliar corretamente o estado nutricional. Consulte um nutricionista
+Deve-se considerar que apenas este cálculo não é suficiente para avaliar corretamente o estado nutricional. Consulte um nutricionista.
